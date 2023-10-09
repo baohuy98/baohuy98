@@ -29,13 +29,13 @@
 ### :man_technologist: About Me : 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
-- :telescope: I’m working as a Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Developer and contributing to the front-end for building web applications.
 
 - :seedling: Exploring Technical Data.
 
-- :zap: In my free time, I usually read documents to imporve my knowledge in ReactJS and explore a new technology 
+- :zap: In my free time, I usually read documents to improve my knowledge of ReactJS and explore a new technology 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-baohuydev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baohuydev/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-baohuydev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baohuydev/)
 
 ---
 
@@ -56,7 +56,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"  title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
